@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MedHacks2020</string>
+    <string name="Patient_First_Name">Enter Patient First Name</string>
+    <string name="Breathing_Difficulty">Breathing Difficulty</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="zero">0</string>
+    <string name="DateOfBirth">Date Of Birth (yyyy-mm-dd)</string>
+    <string name="Consciousnes">Is the Patient Conscious?</string>
+    <string name="Patient_Address">Enter Patient Address</string>
+    <string name="Patient_Last_Name">Enter Patient Last Name</string>
+    <string name="Profile">PATIENT PROFILE</string>
+    <string name="Patient_Condition">Patient Condition</string>
+    <string name="Patient_Postal_Code">Enter Patient Postal Code</string>
+    <string name="Pain">Pain</string>
+    <string name="Bleeding">Bleeding</string>
+    <string name="no_bleeding">No Bleeding</string>
+    <string name="little_bleeding">Little Bleeding</string>
+    <string name="mild_bleeding">Mild Bleeding</string>
+    <string name="important_bleeding">Important Bleeding</string>
+    <string name="Additional_info">Additional Information</string>
+    <string name="additional_info">Please enter any important additional information</string>
+    <string name="submitted">Submission successful! Your folder is now in our database and you have been placed in
+    the priority queue. Please inform a nurse upon your arrival at the hospital. Thank you! </string>
+
+</resources>
